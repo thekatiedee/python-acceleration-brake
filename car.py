@@ -1,6 +1,4 @@
 
-print('This was written by Katie Diamond who is in your MW 6pm SDEV140 class.')
-
 class Car:
     
     def __init__(self, year, make):
